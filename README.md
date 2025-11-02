@@ -1,4 +1,4 @@
-# Hi, I'm Tam Ngan 👋
+# Hi, I'm Tam Ly 👋
 
 I'm a software engineer passionate about building **full-stack applications**. I enjoy turning ideas into clean, scalable code.
 
