@@ -39,7 +39,7 @@ I'm a software engineer passionate about building **full-stack applications**. I
 -   Technical Skills: JavaScript, EJS, CSS
 -   Live Demo: https://tamcorner.onrender.com/
 
-### [MPCM SOP App](https://github.com/tamngan/mpcm-sop-app)
+### [SOP App](https://github.com/TamNganLy/sop-web-app)
 
 -   Built an internal SOP management platform to streamline operations for a logistics company.
 -   Designed a dynamic interface for creating, viewing, and updating standard operating procedures.
